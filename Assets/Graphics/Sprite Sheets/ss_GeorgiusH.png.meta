@@ -1,0 +1,2467 @@
+fileFormatVersion: 2
+guid: 3819f48d8eb0c8440ac8d2d8c3151dc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4531637644104384807
+    second: ss_GeorgiusH_stand_1
+  - first:
+      213: 8309249098843514074
+    second: ss_GeorgiusH_lookup_1
+  - first:
+      213: -8644643442676763350
+    second: ss_GeorgiusH_lookdown_1
+  - first:
+      213: 9138418805428696961
+    second: ss_GeorgiusH_run_1
+  - first:
+      213: 8346659013569351368
+    second: ss_GeorgiusH_run_2
+  - first:
+      213: -5542550468870890319
+    second: ss_GeorgiusH_run_3
+  - first:
+      213: -1020027193516771816
+    second: ss_GeorgiusH_run_4
+  - first:
+      213: 7362741585762170882
+    second: ss_GeorgiusH_run_5
+  - first:
+      213: -6200824269385210041
+    second: ss_GeorgiusH_run_6
+  - first:
+      213: 3954113219374893582
+    second: ss_GeorgiusH_run_7
+  - first:
+      213: -8044977417862218614
+    second: ss_GeorgiusH_run_8
+  - first:
+      213: -7029177787220213107
+    second: ss_GeorgiusH_jumpup_1
+  - first:
+      213: -905936891694565832
+    second: ss_GeorgiusH_jumpup_2
+  - first:
+      213: 5093294301617068923
+    second: ss_GeorgiusH_jumpup_3
+  - first:
+      213: -2676982457534592927
+    second: ss_GeorgiusH_jumpup_4
+  - first:
+      213: -4966031234627659445
+    second: ss_GeorgiusH_jumpup_5
+  - first:
+      213: 838395782075894609
+    second: ss_GeorgiusH_jumpup_6
+  - first:
+      213: 4049059356224116384
+    second: ss_GeorgiusH_jumpup_7
+  - first:
+      213: -3703661229919610230
+    second: ss_GeorgiusH_jumpdown_1
+  - first:
+      213: -3574035639067678320
+    second: ss_GeorgiusH_jumpdown_2
+  - first:
+      213: 7789067766994404109
+    second: ss_GeorgiusH_jumpdown_3
+  - first:
+      213: 2395015635594307997
+    second: ss_GeorgiusH_land_1
+  - first:
+      213: -2216373815046433993
+    second: ss_GeorgiusH_land_2
+  - first:
+      213: -9014958815962323014
+    second: ss_GeorgiusH_block_1
+  - first:
+      213: 9064452555681329328
+    second: ss_GeorgiusH_block_2
+  - first:
+      213: 6834096667356153397
+    second: ss_GeorgiusH_block_3
+  - first:
+      213: 8610767180330860637
+    second: ss_GeorgiusH_blockmove_1
+  - first:
+      213: 1590162865536823315
+    second: ss_GeorgiusH_blockmove_2
+  - first:
+      213: -4151600494456880689
+    second: ss_GeorgiusH_blockmove_3
+  - first:
+      213: -7351239639858475897
+    second: ss_GeorgiusH_blockmove_4
+  - first:
+      213: 3364917421847871617
+    second: ss_GeorgiusH_blockmove_5
+  - first:
+      213: 2034860182507953842
+    second: ss_GeorgiusH_blockmove_6
+  - first:
+      213: 1599568967725396365
+    second: ss_GeorgiusH_blockblock
+  - first:
+      213: -5181995686477382698
+    second: ss_GeorgiusH_blockstab_1
+  - first:
+      213: -7798644788318820191
+    second: ss_GeorgiusH_blockstab_2
+  - first:
+      213: 5563387178651594742
+    second: ss_GeorgiusH_blockstab_3
+  - first:
+      213: 4234983138350093237
+    second: ss_GeorgiusH_blockstab_4
+  - first:
+      213: 5145614872797185689
+    second: ss_GeorgiusH_blockstab_5
+  - first:
+      213: 4006934362577886389
+    second: ss_GeorgiusH_runstart_1
+  - first:
+      213: 8498155671301757170
+    second: ss_GeorgiusH_runstart_2
+  - first:
+      213: -3756955389095871325
+    second: ss_GeorgiusH_runstop_1
+  - first:
+      213: -6472555767087395699
+    second: ss_GeorgiusH_runstop_2
+  - first:
+      213: 7847627317646580643
+    second: ss_GeorgiusH_runstop_3
+  - first:
+      213: -7579030039398500569
+    second: ss_GeorgiusH_pivot_1
+  - first:
+      213: -4048422504222068276
+    second: ss_GeorgiusH_pivot_2
+  - first:
+      213: 2002568909966222466
+    second: ss_GeorgiusH_pivot_3
+  - first:
+      213: 87438480733028356
+    second: ss_GeorgiusH_injuredG_1
+  - first:
+      213: -2899793536920266482
+    second: ss_GeorgiusH_injuredG_2
+  - first:
+      213: 5061759438261769350
+    second: ss_GeorgiusH_injuredG_3
+  - first:
+      213: 7379546762305817940
+    second: ss_GeorgiusH_injuredA_1
+  - first:
+      213: -6344914251769756825
+    second: ss_GeorgiusH_injuredA_2
+  - first:
+      213: -3317138975235189491
+    second: ss_GeorgiusH_injuredA_3
+  - first:
+      213: -507708512529909099
+    second: ss_GeorgiusH_death_1
+  - first:
+      213: -2844234259777030886
+    second: ss_GeorgiusH_death_2
+  - first:
+      213: -5743368906399825275
+    second: ss_GeorgiusH_death_3
+  - first:
+      213: 1651763850315773797
+    second: ss_GeorgiusH_death_4
+  - first:
+      213: -7845031028099708879
+    second: ss_GeorgiusH_pullspearG_1
+  - first:
+      213: 7217978608752224078
+    second: ss_GeorgiusH_pullspearG_2
+  - first:
+      213: -2536968406218219249
+    second: ss_GeorgiusH_pullspearG_3
+  - first:
+      213: -5120502783909919602
+    second: ss_GeorgiusH_pullspearG_4
+  - first:
+      213: -6701520966377265534
+    second: ss_GeorgiusH_pullspearG_5
+  - first:
+      213: -5922266263852536799
+    second: ss_GeorgiusH_pullspearW_1
+  - first:
+      213: 3706244002632533522
+    second: ss_GeorgiusH_pullspearW_2
+  - first:
+      213: 2423585126655302678
+    second: ss_GeorgiusH_pullspearW_3
+  - first:
+      213: 8005874748611917982
+    second: ss_GeorgiusH_pullspearW_4
+  - first:
+      213: -1883289052802251750
+    second: ss_GeorgiusH_pullspearW_5
+  - first:
+      213: -5589392139925700330
+    second: ss_GeorgiusH_pullspearW_6
+  - first:
+      213: 8447962321615705999
+    second: ss_GeorgiusH_pullspearW_7
+  - first:
+      213: -1127815229519711838
+    second: ss_GeorgiusH_ledgeclimb_1
+  - first:
+      213: 5534104945159693809
+    second: ss_GeorgiusH_ledgeclimb_2
+  - first:
+      213: 1093477886820267300
+    second: ss_GeorgiusH_ledgeclimb_3
+  - first:
+      213: 4955388451955139270
+    second: ss_GeorgiusH_ledgeclimb_4
+  - first:
+      213: 5585077480969866099
+    second: ss_GeorgiusH_ledgeclimb_5
+  - first:
+      213: -3646617716124864514
+    second: ss_GeorgiusH_stab_1
+  - first:
+      213: -457719766604133089
+    second: ss_GeorgiusH_stab_2
+  - first:
+      213: -7726143925578612957
+    second: ss_GeorgiusH_stab_3
+  - first:
+      213: -4348647323970942846
+    second: ss_GeorgiusH_stab_4
+  - first:
+      213: 7093768980925162672
+    second: ss_GeorgiusH_stab_5
+  - first:
+      213: -5560058661440141766
+    second: ss_GeorgiusH_stab_6
+  - first:
+      213: 106675398417883140
+    second: ss_GeorgiusH_stab_7
+  - first:
+      213: 7930231437790320268
+    second: ss_GeorgiusH_blockstabup_1
+  - first:
+      213: 7451759433748994851
+    second: ss_GeorgiusH_blockstabup_2
+  - first:
+      213: -8024234049087590287
+    second: ss_GeorgiusH_blockstabup_3
+  - first:
+      213: 8589853432736813341
+    second: ss_GeorgiusH_blockstabup_4
+  - first:
+      213: 7209011821436857337
+    second: ss_GeorgiusH_blockstabup_5
+  - first:
+      213: -2317854599276003034
+    second: ss_GeorgiusH_throw_1
+  - first:
+      213: -2256679273506806362
+    second: ss_GeorgiusH_throw_2
+  - first:
+      213: -4716707114812906119
+    second: ss_GeorgiusH_throw_3
+  - first:
+      213: -4618422466150729085
+    second: ss_GeorgiusH_throw_4
+  - first:
+      213: -6376684061373440139
+    second: ss_GeorgiusH_throw_5
+  - first:
+      213: 6279333597531746203
+    second: ss_GeorgiusH_throw_6
+  - first:
+      213: -6426134936874807608
+    second: ss_GeorgiusH_throw_7
+  - first:
+      213: -5304626673436931481
+    second: ss_GeorgiusH_stabup_1
+  - first:
+      213: 3107454711936161166
+    second: ss_GeorgiusH_stabup_2
+  - first:
+      213: -7713628295494455770
+    second: ss_GeorgiusH_stabup_3
+  - first:
+      213: -8107588022298510130
+    second: ss_GeorgiusH_stabup_4
+  - first:
+      213: -5765409317876191786
+    second: ss_GeorgiusH_stabup_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stand_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1825
+        width: 90
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49254248, y: 0.09584801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e537954bfa857479b29a82f178c6bc
+      internalID: -4531637644104384807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_lookup_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1837
+        width: 101
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5099827, y: 0.06754438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8004cd1b1d781044d96843c54610931f
+      internalID: 8309249098843514074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_lookdown_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1837
+        width: 81
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4688815, y: 0.089325696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1311fbfe80fb4296981c0ed44fe96
+      internalID: -8644643442676763350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1857
+        width: 146
+        height: 188
+      alignment: 9
+      pivot: {x: 0.41713056, y: 0.10582003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91390183496950843afed7cd20966af5
+      internalID: 9138418805428696961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1866
+        width: 155
+        height: 180
+      alignment: 9
+      pivot: {x: 0.41543797, y: 0.07429878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fa70f9ba517540a581e97ea86c548
+      internalID: 8346659013569351368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1878
+        width: 166
+        height: 170
+      alignment: 9
+      pivot: {x: 0.39370948, y: 0.0729801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba22ad8fdc2c1d48879b2b2a80da6be
+      internalID: -5542550468870890319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1869
+        width: 155
+        height: 179
+      alignment: 9
+      pivot: {x: 0.3829137, y: 0.057838142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf27d4c88b4ae44b83bdb0fc974a070
+      internalID: -1020027193516771816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1860
+        width: 145
+        height: 186
+      alignment: 9
+      pivot: {x: 0.43038583, y: 0.06972446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b9412fa858124ea3e744d962d47e2
+      internalID: 7362741585762170882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_6
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1849
+        width: 139
+        height: 198
+      alignment: 9
+      pivot: {x: 0.3995862, y: 0.07091237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17879f02927d91f4ebaf37e903029b56
+      internalID: -6200824269385210041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1852
+        width: 136
+        height: 196
+      alignment: 9
+      pivot: {x: 0.473228, y: 0.04486084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a0e2ee23c5b146a53fa6168c1b8f4
+      internalID: 3954113219374893582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_run_8
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1850
+        width: 149
+        height: 198
+      alignment: 9
+      pivot: {x: 0.46334532, y: 0.07704239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6c5816892bfc48a6bde3d0519f5a3
+      internalID: -8044977417862218614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_1
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1862
+        width: 153
+        height: 185
+      alignment: 9
+      pivot: {x: 0.61757123, y: 0.16602816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c6af0e292f2a43803e8aef96c52be
+      internalID: -7029177787220213107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1850
+        width: 92
+        height: 187
+      alignment: 9
+      pivot: {x: 0.44899717, y: 0.16123399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea0b9f027516749b07436fac932db6
+      internalID: -905936891694565832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_3
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1839
+        width: 139
+        height: 201
+      alignment: 9
+      pivot: {x: 0.61816055, y: 0.37159964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8526dcf1771cd14089a679f35086fda
+      internalID: 5093294301617068923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_4
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1833
+        width: 106
+        height: 209
+      alignment: 9
+      pivot: {x: 0.61067516, y: 0.37651333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0d90f5ded05d4696096ffb1813127
+      internalID: -2676982457534592927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1631
+        width: 107
+        height: 188
+      alignment: 9
+      pivot: {x: 0.419598, y: 0.3377588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ceb597fc82c2e4abe06ee7893938e9
+      internalID: -4966031234627659445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1637
+        width: 97
+        height: 192
+      alignment: 9
+      pivot: {x: 0.45968628, y: 0.4592673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b2e1db493a5b40b38793c12dffb52
+      internalID: 838395782075894609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpup_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1649
+        width: 101
+        height: 184
+      alignment: 9
+      pivot: {x: 0.47676963, y: 0.44474462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d8bd4b9469b649bb525d4e4521bf7
+      internalID: 4049059356224116384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpdown_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1654
+        width: 111
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5087269, y: 0.41033667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770b08eb289e9b4aa0c1756c4e3a3d8
+      internalID: -3703661229919610230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpdown_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1689
+        width: 123
+        height: 180
+      alignment: 9
+      pivot: {x: 0.6873037, y: 0.24202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b3517c4fa04545ba34fb331e33fc3
+      internalID: -3574035639067678320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_jumpdown_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1704
+        width: 128
+        height: 161
+      alignment: 9
+      pivot: {x: 0.66498804, y: 0.30920714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1478d4d5d3719624f986ac8554beb6ea
+      internalID: 7789067766994404109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_land_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1743
+        width: 116
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5914433, y: 0.22233073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11460729da911db44bf455ac657a7039
+      internalID: 2395015635594307997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_land_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1704
+        width: 128
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5974822, y: 0.12092764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba10ce3687a30849a91423e8d6ecc55
+      internalID: -2216373815046433993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_block_1
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1670
+        width: 133
+        height: 187
+      alignment: 9
+      pivot: {x: 0.41854972, y: 0.058399875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff712617f13b7e43b56e53dcd4feb7e
+      internalID: -9014958815962323014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_block_2
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1714
+        width: 199
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3548136, y: 0.16124141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a9e4b71834b749b374dc39988bbc4
+      internalID: 9064452555681329328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_block_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1724
+        width: 202
+        height: 122
+      alignment: 9
+      pivot: {x: 0.32604498, y: 0.12876818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f97d045984af741ab2fae27cc9c0c1
+      internalID: 6834096667356153397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_1
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1724
+        width: 206
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3644433, y: 0.13725382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15354e1e80ad1f9489b4ef23df7bf8bd
+      internalID: 8610767180330860637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_2
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1712
+        width: 210
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3826695, y: 0.1841102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7456a68145d2ba240a30efccef0e03b1
+      internalID: 1590162865536823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 198
+        height: 125
+      alignment: 9
+      pivot: {x: 0.3726599, y: 0.15223047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be69c95562bc44fbd758670192ba94
+      internalID: -4151600494456880689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1519
+        width: 195
+        height: 125
+      alignment: 9
+      pivot: {x: 0.36313775, y: 0.17974219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492539c541f411e4a9460a987c65c5c0
+      internalID: -7351239639858475897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1552
+        width: 198
+        height: 119
+      alignment: 9
+      pivot: {x: 0.33825377, y: 0.18602182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317dde13ab19e74788ccc0bc6cf517d
+      internalID: 3364917421847871617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockmove_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1563
+        width: 191
+        height: 127
+      alignment: 9
+      pivot: {x: 0.33899885, y: 0.14832696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee04dded57dbd441a712887edf072fb
+      internalID: 2034860182507953842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockblock
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1528
+        width: 182
+        height: 139
+      alignment: 9
+      pivot: {x: 0.30231383, y: 0.06183608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae16893d3fb2642bb9076bf6fe7556
+      internalID: 1599568967725396365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstab_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1576
+        width: 192
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4021829, y: 0.12832199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b48d311bea9684b92e96bd2004286b
+      internalID: -5181995686477382698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstab_2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1592
+        width: 191
+        height: 129
+      alignment: 9
+      pivot: {x: 0.47944042, y: 0.11947561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ca67620609c24fb2c04cfb95bbe45
+      internalID: -7798644788318820191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstab_3
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1595
+        width: 240
+        height: 129
+      alignment: 9
+      pivot: {x: 0.0963913, y: 0.11440354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a148747d27b5d40bd658fa52489245
+      internalID: 5563387178651594742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstab_4
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1592
+        width: 240
+        height: 119
+      alignment: 9
+      pivot: {x: 0.09093679, y: 0.12599912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd8fb627fcaff14b9a0c505e6a8f797
+      internalID: 4234983138350093237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstab_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1370
+        width: 205
+        height: 124
+      alignment: 9
+      pivot: {x: 0.25087708, y: 0.12491632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bedde88ba250c3478462e0c24bb8026
+      internalID: 5145614872797185689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_runstart_1
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 912
+        width: 116
+        height: 202
+      alignment: 9
+      pivot: {x: 0.49145824, y: 0.09287043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723efca49b4051842b9579be6dd39204
+      internalID: 4006934362577886389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_runstart_2
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 919
+        width: 122
+        height: 184
+      alignment: 9
+      pivot: {x: 0.36193147, y: 0.10689312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b20cb7c15249c44493baa0861c035e6
+      internalID: 8498155671301757170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_runstop_1
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 916
+        width: 89
+        height: 208
+      alignment: 9
+      pivot: {x: 0.40052092, y: 0.11691255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318efec719dcfd40a663473474932a3
+      internalID: -3756955389095871325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_runstop_2
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 923
+        width: 109
+        height: 212
+      alignment: 9
+      pivot: {x: 0.22586368, y: 0.0875987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f2fb1eae6f59e459b8bf62b0cdaed7
+      internalID: -6472555767087395699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_runstop_3
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 917
+        width: 104
+        height: 222
+      alignment: 9
+      pivot: {x: 0.27805153, y: 0.09257878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a194100ea977ae4ebf94360b95de530
+      internalID: 7847627317646580643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pivot_1
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 916
+        width: 90
+        height: 221
+      alignment: 9
+      pivot: {x: 0.43596599, y: 0.1296986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917ee8c46b1ff74b815ed22dffe20af
+      internalID: -7579030039398500569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pivot_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 509
+        width: 81
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09988991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512c8689ebab8f45bf9b0f1dcb8481a
+      internalID: -4048422504222068276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pivot_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 510
+        width: 88
+        height: 214
+      alignment: 9
+      pivot: {x: 0.35840243, y: 0.117365755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6bafb45e6da524e93d33a702ca81e5
+      internalID: 2002568909966222466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredG_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 519
+        width: 105
+        height: 212
+      alignment: 9
+      pivot: {x: 0.53715324, y: 0.13197182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e48216ca2707142af1f8d7e913d703
+      internalID: 87438480733028356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredG_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 539
+        width: 184
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5466436, y: 0.1453542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba523b0b4f25ac14eac4aa17cb407618
+      internalID: -2899793536920266482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredG_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 645
+        width: 119
+        height: 225
+      alignment: 9
+      pivot: {x: 0.53278255, y: 0.12202664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996741bde38fee343bdbf3fe21f098f5
+      internalID: 5061759438261769350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredA_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 663
+        width: 131
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5536029, y: 0.36487806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f69aca3c886a41aef1537e0ec8883
+      internalID: 7379546762305817940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredA_2
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 648
+        width: 179
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5087175, y: 0.35370842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa915745db998847851a07863c804c7
+      internalID: -6344914251769756825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_injuredA_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 672
+        width: 151
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6033402, y: 0.31641865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51664d25706db498c2e20941836383
+      internalID: -3317138975235189491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_death_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 769
+        width: 88
+        height: 124
+      alignment: 9
+      pivot: {x: 0.42849177, y: 0.19551332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f454f9410b07f56469d0641cb78c82b6
+      internalID: -507708512529909099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_death_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 777
+        width: 115
+        height: 111
+      alignment: 9
+      pivot: {x: 0.37688094, y: 0.23780341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c125c0e2c11d4b90d6422e5ba92fa
+      internalID: -2844234259777030886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_death_3
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 811
+        width: 141
+        height: 85
+      alignment: 9
+      pivot: {x: 0.33263987, y: 0.2501422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25017e4a97d91c49ab65a62110387a3
+      internalID: -5743368906399825275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_death_4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 801
+        width: 154
+        height: 91
+      alignment: 9
+      pivot: {x: 0.32122883, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42b955104a34df498c0c4d516bafbef
+      internalID: 1651763850315773797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearG_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1205
+        width: 94
+        height: 213
+      alignment: 9
+      pivot: {x: 0.41972575, y: 0.17525266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89015b15b936c4d409db8e7ea601fdfe
+      internalID: -7845031028099708879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearG_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1206
+        width: 97
+        height: 207
+      alignment: 9
+      pivot: {x: 0.37611687, y: 0.18863283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e32005b5e295544825a605969f7be5
+      internalID: 7217978608752224078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearG_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1147
+        width: 149
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5586532, y: 0.07272142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986459fa49dd894a907bee41d193cac
+      internalID: -2536968406218219249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearG_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1172
+        width: 182
+        height: 193
+      alignment: 9
+      pivot: {x: 0.56002307, y: 0.15472634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ce867c5885f14da9a46950d5374c3
+      internalID: -5120502783909919602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearG_5
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1214
+        width: 122
+        height: 220
+      alignment: 9
+      pivot: {x: 0.51790833, y: 0.16730735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031ba162a78cae42ae43f395af7e3a6
+      internalID: -6701520966377265534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1399
+        width: 109
+        height: 131
+      alignment: 9
+      pivot: {x: 0.28149664, y: 0.17295995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49beae27b4cc364cbab1f67cddb5006
+      internalID: -5922266263852536799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1393
+        width: 87
+        height: 130
+      alignment: 9
+      pivot: {x: 0.29862046, y: 0.20051269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc6b2f73e3e404db59379025d2cfae
+      internalID: 3706244002632533522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1369
+        width: 110
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4026667, y: 0.13578472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547334398bf9b949a6e3468b9080812
+      internalID: 2423585126655302678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1446
+        width: 173
+        height: 130
+      alignment: 9
+      pivot: {x: 0.61252415, y: 0.17056416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19229cb2dc0b0174e990d22cabdc707a
+      internalID: 8005874748611917982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_5
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1440
+        width: 158
+        height: 148
+      alignment: 9
+      pivot: {x: 0.54928243, y: 0.11198137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f5ad5169380f4281cdfe655bc5cea
+      internalID: -1883289052802251750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_6
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1437
+        width: 142
+        height: 152
+      alignment: 9
+      pivot: {x: 0.53427255, y: 0.13499932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c781ee506e83994ca40c218448e8f1b
+      internalID: -5589392139925700330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_pullspearW_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1444
+        width: 137
+        height: 144
+      alignment: 9
+      pivot: {x: 0.599465, y: 0.24990675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415741f25e20f447ab927c0cac3229b
+      internalID: 8447962321615705999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_ledgeclimb_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 806
+        width: 128
+        height: 212
+      alignment: 9
+      pivot: {x: 0.29213905, y: 0.23684461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a800044cc36341837147b2c5aec06
+      internalID: -1127815229519711838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_ledgeclimb_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 867
+        width: 185
+        height: 144
+      alignment: 9
+      pivot: {x: 0.24163324, y: -0.24092695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00143d32e03452a47b528dd6e122c0ba
+      internalID: 5534104945159693809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_ledgeclimb_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 867
+        width: 228
+        height: 143
+      alignment: 9
+      pivot: {x: 0.1309967, y: -0.24060144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5e7b08d14faea4da765f741442cd15
+      internalID: 1093477886820267300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_ledgeclimb_4
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 891
+        width: 223
+        height: 130
+      alignment: 9
+      pivot: {x: 0.16879478, y: -0.45870548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536d0e9f33fb1d409b620b89376b38e
+      internalID: 4955388451955139270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_ledgeclimb_5
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 921
+        width: 91
+        height: 167
+      alignment: 9
+      pivot: {x: -0.2770151, y: -0.51538706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe6f41b80adbe42a747bbc96a38140
+      internalID: 5585077480969866099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1006
+        width: 117
+        height: 190
+      alignment: 9
+      pivot: {x: 0.43367356, y: 0.09156848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3efe7d7ef34ae46a6b542a4b010a35
+      internalID: -3646617716124864514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1052
+        width: 201
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46139222, y: 0.14555016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d68475363584143b567cb6edcca443
+      internalID: -457719766604133089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1012
+        width: 274
+        height: 133
+      alignment: 9
+      pivot: {x: 0.17988932, y: 0.17026147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf8429d1bf3e604e95670c07bb52460
+      internalID: -7726143925578612957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1010
+        width: 254
+        height: 138
+      alignment: 9
+      pivot: {x: 0.13264237, y: 0.14840123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b63ebad07d0dc428b51481e4444132
+      internalID: -4348647323970942846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1107
+        width: 260
+        height: 117
+      alignment: 9
+      pivot: {x: 0.20571806, y: 0.09326902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991281a943a07d7468e6171e8e285a53
+      internalID: 7093768980925162672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_6
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1121
+        width: 233
+        height: 130
+      alignment: 9
+      pivot: {x: 0.33180335, y: 0.062165715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114baa24a798424a897543f349226a0
+      internalID: -5560058661440141766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stab_7
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1161
+        width: 121
+        height: 204
+      alignment: 9
+      pivot: {x: 0.48214847, y: 0.07646209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf76dd421084eb84685b0061a1d41b25
+      internalID: 106675398417883140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstabup_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1352
+        width: 111
+        height: 170
+      alignment: 9
+      pivot: {x: 0.42622665, y: 0.12668385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf5f520cf211542ac93cef7f864b66
+      internalID: 7930231437790320268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstabup_2
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1529
+        width: 80
+        height: 301
+      alignment: 9
+      pivot: {x: 0.4827408, y: 0.06425603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef23ee0b819e714d8a77b749ab040af
+      internalID: 7451759433748994851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstabup_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1233
+        width: 79
+        height: 284
+      alignment: 9
+      pivot: {x: 0.39204195, y: 0.07581598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f688dc8bc5d1db49b307e5131766ec8
+      internalID: -8024234049087590287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstabup_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1246
+        width: 78
+        height: 287
+      alignment: 9
+      pivot: {x: 0.43166137, y: 0.08024996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775274f48272864aaeeceff966049c8
+      internalID: 8589853432736813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_blockstabup_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1417
+        width: 180
+        height: 139
+      alignment: 9
+      pivot: {x: 0.41115925, y: 0.0781654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd9194d390a4448867741767ce1ef5
+      internalID: 7209011821436857337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1251
+        width: 153
+        height: 190
+      alignment: 9
+      pivot: {x: 0.434686, y: 0.12599134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d21d34858e64f4b84c40b12c893268
+      internalID: -2317854599276003034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1284
+        width: 342
+        height: 149
+      alignment: 9
+      pivot: {x: 0.6168773, y: 0.0901436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd347575cae6a9f428a1ff204a0d956c
+      internalID: -2256679273506806362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1380
+        width: 319
+        height: 141
+      alignment: 9
+      pivot: {x: 0.48259637, y: 0.11413747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e00d75d906c14d8826ea8fb0811a9
+      internalID: -4716707114812906119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1225
+        width: 182
+        height: 133
+      alignment: 9
+      pivot: {x: 0.26492512, y: 0.10938601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd359d43b1a524ea7262eb424ff55f
+      internalID: -4618422466150729085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1210
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.36961183, y: 0.07623828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c7050c624c4d41b483c719a1c11a9
+      internalID: -6376684061373440139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1068
+        width: 109
+        height: 132
+      alignment: 9
+      pivot: {x: 0.3130903, y: 0.18359837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40543eb34fd6f4fb08674819d061e8
+      internalID: 6279333597531746203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_throw_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1072
+        width: 71
+        height: 139
+      alignment: 9
+      pivot: {x: 0.38522166, y: 0.14090426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed07f91742bdb94a922485c7c999a79
+      internalID: -6426134936874807608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stabup_1
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1171
+        width: 152
+        height: 192
+      alignment: 9
+      pivot: {x: 0.61196417, y: 0.17768478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb94289d38314448586ee47941ffa4
+      internalID: -5304626673436931481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stabup_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 749
+        width: 114
+        height: 315
+      alignment: 9
+      pivot: {x: 0.49038577, y: 0.09290829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97162a6889d889046a036efb2ebe47bb
+      internalID: 3107454711936161166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stabup_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 775
+        width: 75
+        height: 287
+      alignment: 9
+      pivot: {x: 0.38309142, y: 0.07610531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdef3ba3553ae842af9a5b5760e4446
+      internalID: -7713628295494455770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stabup_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 733
+        width: 87
+        height: 270
+      alignment: 9
+      pivot: {x: 0.43701032, y: 0.0778309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7201b0b0d407841b5a004efb1d4318
+      internalID: -8107588022298510130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ss_GeorgiusH_stabup_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 802
+        width: 73
+        height: 237
+      alignment: 9
+      pivot: {x: 0.36487484, y: 0.083791226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86520a9ac818a8b4fa6fcadb12345373
+      internalID: -5765409317876191786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
